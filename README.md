@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rrachelr
+- 👋 Hi, I’m Rachel (@rrachelr)
 - 👀 I’m interested in learning as much as I can
 - 🌱 I’m a freshman computer science major
 - 📫 How to reach me: email -> rachrobins1@gmail.com
