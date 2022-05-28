@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rachel (@rrachelr)
 - 👀 I’m interested in learning as much as I can
 - 🌱 I’m a sophomore computer science major + cognitive science minor
-- 📫 How to reach me: email -> rachrobins1@gmail.com
+- 📫 How to reach me: email -> rrobins@udel.edu
 
 <!---
 rrachelr/rrachelr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
