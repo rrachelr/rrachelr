@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rachel (@rrachelr)
 - 👀 I’m interested in learning as much as I can
-- 🌱 I’m a freshman computer science major
+- 🌱 I’m a sophomore computer science major + cognitive science minor
 - 📫 How to reach me: email -> rachrobins1@gmail.com
 
 <!---
