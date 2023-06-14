@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rachel (@rrachelr)
 - 👀 I’m interested in learning as much as I can
-- 🌱 I’m a sophomore computer science major + cognitive science minor
+- 🌱 I’m a junior computer science major + cognitive science minor + cybersecurity concentration
 - 📫 How to reach me: email -> rrobins@udel.edu
 
 <!---
