@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rachel (@rrachelr)
 - 👀 I’m interested in learning as much as I can!
 - 🌱 I’m a senior computer science major + cognitive science and cybersecurity minor + cybersecurity concentration
+
 Thanks for stopping by!
 
 <!---
